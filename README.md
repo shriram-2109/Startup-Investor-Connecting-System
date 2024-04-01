@@ -1,9 +1,4 @@
-# NIT-Hackathon
-## Capital Catalyst
-
-Project from : 
-* Akshay S G - Shiv Nadar University , Chennai
-* Surya S - Shiv Nadar University , Chennai
+## Startup-Investor Connecting System
 
 ## Prerequisites for the project : 
  * You need to have a postgre database created with the values of the Indian Startup.csv file loaded into it.
