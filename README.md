@@ -8,7 +8,7 @@
 
 We connect SQL database(PostgreSQL) with our /code app.py file which is then preprocessed and the data is used in our machine learning model.
 
-![database](https://user-images.githubusercontent.com/83088512/211532057-1fb18478-0465-4716-b91c-2ceb020e52a2.png)
+![database](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/database.png)
 
 
 The same preprocessed data is used as training dataset for our machine learning algorithm.
