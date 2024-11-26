@@ -21,8 +21,8 @@ The front end of this project is done mostly with streamlit module of python dat
 ![input](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/input.png)
 ## Output :
 ![out1](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/out1.png)
-![out3](https://user-images.githubusercontent.com/83088512/211532211-32e5e04e-56a5-4b6c-a232-3b189083d96a.png)
-![out2](https://user-images.githubusercontent.com/83088512/211532215-a9f22e5e-a11f-4c18-9f01-3de583057d2b.png)
+![out2](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/out2.png)
+![out3](https://user-images.githubusercontent.com/83088512/211532215-a9f22e5e-a11f-4c18-9f01-3de583057d2b.png)
 
 
 [video.webm](https://user-images.githubusercontent.com/83088512/211532306-14f1d26a-7c98-4495-af32-9b90445d13df.webm)
