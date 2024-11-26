@@ -27,4 +27,4 @@ The front end of this project is done mostly with streamlit module of python dat
 ![out3](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/out3.png)
 
 ## Walkthrough :
-[video.webm](https://user-images.githubusercontent.com/83088512/211532306-14f1d26a-7c98-4495-af32-9b90445d13df.webm)
+[video.webm](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/video.webm)
