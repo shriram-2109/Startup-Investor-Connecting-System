@@ -18,7 +18,7 @@ In this algorithm we take in 2 or more feataures of the data set and derive a si
 The front end of this project is done mostly with streamlit module of python database from postgreSQL and streamlit is connceted using psycog2.
 
 ![home](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/home.png)
-![input](https://user-images.githubusercontent.com/83088512/211532229-c9966eba-b858-4bfa-819f-b1e4a4ca9da0.png)
+![input](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/input.png)
 
 ![out1](https://user-images.githubusercontent.com/83088512/211532207-efce8580-a2d4-4454-8993-92a0e848b9b7.png)
 ![out3](https://user-images.githubusercontent.com/83088512/211532211-32e5e04e-56a5-4b6c-a232-3b189083d96a.png)
