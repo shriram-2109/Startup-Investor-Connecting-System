@@ -3,7 +3,7 @@
 ![database](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/database.png)
 
 ![home](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/home.png)
-![input](https://user-images.githubusercontent.com/83088512/211531302-ed73759f-f19a-4a44-890e-ff771b47b55b.png)
+![input](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/input.png)
 
 ![out1](https://user-images.githubusercontent.com/83088512/211530995-ddd39e78-ca77-4f8d-8a9d-89318f212c59.png)
 ![out2](https://user-images.githubusercontent.com/83088512/211531172-e9761890-3f5b-4500-b27a-f3868b08364d.png)
