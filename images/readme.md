@@ -1,4 +1,4 @@
-## This folder conisit of the output images and videos of our project.
+## This folder consist of the output images and videos of our project.
 
 ![database](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/database.png)
 
