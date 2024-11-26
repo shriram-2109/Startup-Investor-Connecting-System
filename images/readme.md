@@ -1,6 +1,6 @@
 ## This folder conisit of the output images and videos of our project.
 
-![database](https://user-images.githubusercontent.com/83088512/211531321-e208f018-67aa-4521-8096-bcdc55602561.png)
+![database](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/database.png)
 
 ![home](https://github.com/shriram-2109/Startup-Investor-Connecting-System/blob/main/images/home.png)
 ![input](https://user-images.githubusercontent.com/83088512/211531302-ed73759f-f19a-4a44-890e-ff771b47b55b.png)
